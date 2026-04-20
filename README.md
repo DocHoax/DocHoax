@@ -1,4 +1,4 @@
-# Hey, I'm Muhammad O.⚡
+# Hey, I'm Muhammad O. Adam⚡
 
 > Full Stack Dev. Frontend obsessive. The person called in when your vibe-coded mess needs to become production code.
 

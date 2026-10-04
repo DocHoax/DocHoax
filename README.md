@@ -57,6 +57,7 @@ A social Quran recitation and verse recognition mobile application that combines
 🤖 **EchoDoc**  
 
 A document processing platform focused on extracting, analyzing, and managing document content through a modern full-stack architecture.
+
 ---
 
 ## Philosophy

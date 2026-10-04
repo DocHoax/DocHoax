@@ -46,12 +46,17 @@ I'm particularly interested in **developer tools, AI-powered products, open-sour
 
 ## Currently Building
 
-🐺 **Watchdog** — A developer-focused CLI tool built with Go, with releases, automation, and an official web presence.
+🐺 **Watchdog**
 
-📖 **Muneer** — A Quran recitation recognition and social platform for iOS and Android.
+A Go-based system monitoring and diagnostics platform featuring a terminal dashboard, diagnostic engine, alerting, anomaly detection, and fleet intelligence.
 
-🤖 **AI Products & Developer Tools** — Exploring practical ways to combine AI with software engineering and developer workflows.
+📖 **Muneer**  
 
+A social Quran recitation and verse recognition mobile application that combines audio identification with community-driven recitation sharing.
+
+🤖 **EchoDoc**  
+
+A document processing platform focused on extracting, analyzing, and managing document content through a modern full-stack architecture.
 ---
 
 ## Philosophy
@@ -60,4 +65,14 @@ I'm particularly interested in **developer tools, AI-powered products, open-sour
 
 ---
 
-*Open to interesting collaborations, ambitious products, and technically challenging problems.*
+🤝 Open Source
+
+I'm interested in contributing to open-source projects, collaborating with developers, and learning from established engineering communities.
+
+📫 Connect With Me
+
+🌐 Portfolio: https://olawaleadam.dev
+
+💼 LinkedIn: [Muhammad 0. Adam](https://www.linkedin.com/in/muhammadoadam/?isSelfProfile=true)
+
+🐙 GitHub: @DocHoax

@@ -1,4 +1,4 @@
-# Hey, I'm Olawale M. Adam ⚡
+# Hey, I'm Muhammad O. Adam ⚡
 
 > Software Engineer. Frontend obsessive. Builder of developer tools, AI products, and modern web & mobile applications.
 
